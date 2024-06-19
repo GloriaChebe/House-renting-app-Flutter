@@ -1,16 +1,25 @@
-# flutter_application_2
+TASK 1
+I forked and cloned the repo.
+ ![Screenshot (63)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/6293d021-2712-4f9c-8c21-490cc8e950d3)
 
-A new Flutter project.
+TASK 2
+I created a branch called feature update, made changes and merged to the main 
+![Screenshot (64)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/c0fe9d09-c37a-4db4-ba2d-f911ea5e388e)
+![Screenshot (65)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/a70d46ce-0998-43b8-bb77-14d9e8eb5a6f)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+TASK 3
+Created a conflict  and resolved it.
+ ![Screenshot (66)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/951329a6-2ea8-4699-921d-ace2a8678340)
+![Screenshot (67)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/d9ae9828-77fc-4c62-961d-0373f4a7feca)
 
-A few resources to get you started if this is your first Flutter project:
+ 
+TASK 4
+Enabled github pages 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ ![Screenshot (69)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/fe574593-7fba-453d-a343-9888c1bdb60c)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TASK 5
+Raised an issue to open source project.
+ ![Screenshot (71)](https://github.com/GloriaChebe/House-renting-app-Flutter/assets/145842832/761ecd1c-30d4-409d-be6c-f59740d8bb8a)
+
